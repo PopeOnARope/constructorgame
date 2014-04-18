@@ -1,0 +1,22 @@
+body {
+	color: green;
+	background-color: #222;
+	font-family: helvetica;
+}
+
+img {
+	width: 250px;
+	border: 1px solid black;
+
+}
+.alien1:active {
+	border: 5px solid red;
+}
+
+.health {
+	border: 1px solid red;
+	background-color: #999;
+}
+button:active {
+	border: 2px solid red;
+	}
